@@ -1,3 +1,4 @@
+Visual form class based app
 ## Login
 ![Ekran görüntüsü 2025-02-21 143756](https://github.com/user-attachments/assets/a82cdb17-0a0b-4dd4-8ca2-f1caa34cadde)
 ## Register
